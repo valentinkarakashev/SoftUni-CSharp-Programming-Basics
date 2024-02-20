@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni C# Programming Basics", "SoftUni C# Programming Basics.csproj", "{A246497C-A825-4341-863E-70C39290F156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello SoftUni", "..\01. First steps in programming\01. First steps in programming - Lab\01. Hello SoftUni\01. Hello SoftUni.csproj", "{C8F5526A-BE7A-43A1-8B98-957C2743E718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Nums 1-10", "..\01. First steps in programming\01. First steps in programming - Lab\02. Nums 1-10\02. Nums 1-10.csproj", "{BD0BB1AE-E549-476C-AD55-32A2B4CB2B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Rectangle Area", "..\01. First steps in programming\01. First steps in programming - Lab\03. Rectangle Area\03. Rectangle Area.csproj", "{17614DD2-5658-4F07-8264-B6571BF17E67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Inches to Centimeters", "..\01. First steps in programming\01. First steps in programming - Lab\04. Inches to Centimeters\04. Inches to Centimeters.csproj", "{A7D6821B-46D7-4D76-AEB2-56CD38F05787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Greeting by Name", "..\01. First steps in programming\01. First steps in programming - Lab\05. Greeting by Name\05. Greeting by Name.csproj", "{73BAFFD3-25ED-4731-BC53-8C648DC04917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Concatenate Data", "..\01. First steps in programming\01. First steps in programming - Lab\06. Concatenate Data\06. Concatenate Data.csproj", "{EA994D33-20EB-4E3E-948E-6899930FA02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Projects Creation", "..\01. First steps in programming\01. First steps in programming - Lab\07. Projects Creation\07. Projects Creation.csproj", "{71BA4D40-731B-4507-8608-F998FB65BCF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Pet Shop", "..\01. First steps in programming\01. First steps in programming - Lab\08. Pet Shop\08. Pet Shop.csproj", "{0B19DD12-301E-488C-8128-715C74725259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A246497C-A825-4341-863E-70C39290F156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A246497C-A825-4341-863E-70C39290F156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A246497C-A825-4341-863E-70C39290F156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A246497C-A825-4341-863E-70C39290F156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F5526A-BE7A-43A1-8B98-957C2743E718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F5526A-BE7A-43A1-8B98-957C2743E718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F5526A-BE7A-43A1-8B98-957C2743E718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F5526A-BE7A-43A1-8B98-957C2743E718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0BB1AE-E549-476C-AD55-32A2B4CB2B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0BB1AE-E549-476C-AD55-32A2B4CB2B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0BB1AE-E549-476C-AD55-32A2B4CB2B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0BB1AE-E549-476C-AD55-32A2B4CB2B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17614DD2-5658-4F07-8264-B6571BF17E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17614DD2-5658-4F07-8264-B6571BF17E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17614DD2-5658-4F07-8264-B6571BF17E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17614DD2-5658-4F07-8264-B6571BF17E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D6821B-46D7-4D76-AEB2-56CD38F05787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D6821B-46D7-4D76-AEB2-56CD38F05787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D6821B-46D7-4D76-AEB2-56CD38F05787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D6821B-46D7-4D76-AEB2-56CD38F05787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BAFFD3-25ED-4731-BC53-8C648DC04917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BAFFD3-25ED-4731-BC53-8C648DC04917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BAFFD3-25ED-4731-BC53-8C648DC04917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BAFFD3-25ED-4731-BC53-8C648DC04917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA994D33-20EB-4E3E-948E-6899930FA02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA994D33-20EB-4E3E-948E-6899930FA02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA994D33-20EB-4E3E-948E-6899930FA02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA994D33-20EB-4E3E-948E-6899930FA02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71BA4D40-731B-4507-8608-F998FB65BCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BA4D40-731B-4507-8608-F998FB65BCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BA4D40-731B-4507-8608-F998FB65BCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BA4D40-731B-4507-8608-F998FB65BCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B19DD12-301E-488C-8128-715C74725259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B19DD12-301E-488C-8128-715C74725259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B19DD12-301E-488C-8128-715C74725259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B19DD12-301E-488C-8128-715C74725259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A93FD12-1B27-4A7E-B16B-3B521CE5339A}
+	EndGlobalSection
+EndGlobal

@@ -7,6 +7,7 @@
  • Simple operations and calculations
 
 
+
 ### If-else statement
 
 • Conditional constructions (if, if-else)
@@ -14,6 +15,7 @@
 • Logical expressions
 
 • Tasks
+
 
 
 ### Switch statement
@@ -25,6 +27,7 @@
 • Tasks
 
 
+
 ### A for loop
 
 • For-loop
@@ -34,11 +37,13 @@
 • Increment
 
 
+
 ### While loop
 
 • While-loop
 
 • Repeat break operators
+
 
 
 ### Nested loops

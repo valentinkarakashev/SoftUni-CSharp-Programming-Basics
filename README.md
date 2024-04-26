@@ -1,6 +1,6 @@
-###### SoftUni-CSharp-Programming Basics
+# SoftUni-CSharp-Programming Basics
 
-First steps in programming
+### First steps in programming
 
  • Writing very simple programs;
  
